@@ -1,13 +1,13 @@
 # Tradução PT-BR — Scooby-Doo! Unmasked (PS2)
 
-![Scooby-Doo! Unmasked - Capa](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP_BnKMRC9N9IeijxHHKsaBukDNfKn9bdqC01wP1_wgw&s=10)
+![Scooby-Doo! Unmasked - Capa](capa.jpg)
 
 Patch de tradução para Português Brasileiro do jogo **Scooby-Doo! Unmasked** (PlayStation 2), feito por fã para fãs.
 
-## Conteúdo do repositório
+## O que vem no download
 
-* `Scooby-Doo Unmasked (Patch PTBR).xdelta` — o patch de tradução (formato xdelta)
-* `LEIAME.txt` — instruções completas de instalação (em português)
+* `Scooby-Doo Unmasked (PT-BR).xdelta` — o patch de tradução (formato xdelta)
+* `LEIA-ME.txt` — instruções completas de instalação (em português)
 
 ## Requisitos
 
@@ -17,12 +17,12 @@ Patch de tradução para Português Brasileiro do jogo **Scooby-Doo! Unmasked** 
 ## Como instalar
 
 1. Baixe o [Delta Patcher](https://github.com/marco-calautti/DeltaPatcher/releases) para o seu sistema operacional
-2. Baixe o arquivo `Scooby-Doo Unmasked (Patch PTBR).xdelta` deste repositório (aba Releases ou direto na lista de arquivos)
+2. Baixe o arquivo `Scooby-Doo Unmasked (PT-BR).xdelta` deste repositório (aba **Releases** — vem dentro do arquivo .zip)
 3. Abra o Delta Patcher, selecione o modo Apply Patch
-4. Selecione o `Scooby-Doo Unmasked (Patch PTBR).xdelta`, sua ISO original e o nome do arquivo de destino
+4. Selecione o `Scooby-Doo Unmasked (PT-BR).xdelta`, sua ISO original e o nome do arquivo de destino
 5. Clique em Apply e aguarde a conclusão
 
-Instruções detalhadas passo a passo estão no arquivo `LEIAME.txt`.
+Instruções detalhadas passo a passo estão no arquivo `LEIA-ME.txt`.
 
 ## Aviso legal
 
@@ -45,4 +45,4 @@ Este repositório não distribui nenhum arquivo do jogo original. O patch apenas
 
 ## 💬 Dúvidas ou problemas?
 
-Abra uma [Issue](https://github.com/refresh50/Traducao-ScoobyDooUnmasked/issues) neste repositório contando o problema e a versão do seu jogo.
+Abra uma [Issue](../../issues) neste repositório contando o problema e a versão do seu jogo.
